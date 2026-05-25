@@ -2,7 +2,7 @@
 # EntropyShield-AI
 ## Information Theory, AI Learning Dynamics & Security Analytics
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14a3234e-8d21-4dc7-99e6-7d126dbc6c58" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/14a3234e-8d21-4dc7-99e6-7d126dbc6c58" />
 
 
 
