@@ -2,6 +2,10 @@
 # EntropyShield-AI
 ## Information Theory, AI Learning Dynamics & Security Analytics
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcb3ec50-f927-40ab-bd18-2541606777f6" />
+
+
+
 A research-oriented Python project exploring how **Entropy**, **Cross-Entropy**, and **KL Divergence** power modern:
 
 - Machine Learning
